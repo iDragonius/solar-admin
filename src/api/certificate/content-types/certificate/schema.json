@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "certificates",
+  "info": {
+    "singularName": "certificate",
+    "pluralName": "certificates",
+    "displayName": "Certificates"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "certificates": {
+      "displayName": "Certificate",
+      "type": "component",
+      "repeatable": true,
+      "component": "common.certificate"
+    }
+  }
+}

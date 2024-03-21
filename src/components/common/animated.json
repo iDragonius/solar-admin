@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_common_animateds",
+  "info": {
+    "displayName": "animated"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
